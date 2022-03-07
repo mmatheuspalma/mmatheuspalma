@@ -25,6 +25,11 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and few months
 - Software Engineer at <b>Twiser</b> 🇧🇷 (2016-2017) - 1 year
 
+#### Languages
+- Portuguese - Native
+- English - Advanced
+- Spanish - Basic
+
 <!--
 **mmatheuspalma/mmatheuspalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
