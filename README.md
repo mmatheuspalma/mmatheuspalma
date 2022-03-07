@@ -12,6 +12,10 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - 🌱 I’m currently studing about everything
 - 📫 Follow me on linkedin: https://www.linkedin.com/in/matheus-palma/
 
+#### Some articles that I wrote
+- [Go make async functions, it's easier than it looks](https://dev.to/mmatheuspalma/go-make-async-use-cases-for-async-functions-3lbn)
+- [Capybara with pure CSS](https://dev.to/mmatheuspalma/capybara-with-pure-css-c12)
+
 <!--
 **mmatheuspalma/mmatheuspalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
