@@ -5,8 +5,9 @@ I'm a Senior Software Engineer, with fullstack development experience, I already
 Currently, I'm working in @Storyblok, where I'm a senior frontend engineer, my main goal in the company is to deliver great experience and performance for the users on the editor.
 
 <center>
-![Baby doing drift](https://i.giphy.com/media/3ov9jWu7BuHufyLs7m/giphy.webp)
+![Baby doing some drift](https://i.giphy.com/media/3ov9jWu7BuHufyLs7m/giphy.webp)
 </center>
+<br/>
 
 📫 Follow me on linkedin: https://www.linkedin.com/in/matheus-palma/
 🚗 I'm passionate about cars, and currently I'm working on some projects involving cars
