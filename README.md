@@ -17,6 +17,14 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - [Go make async functions, it's easier than it looks](https://dev.to/mmatheuspalma/go-make-async-use-cases-for-async-functions-3lbn)
 - [Capybara with pure CSS](https://dev.to/mmatheuspalma/capybara-with-pure-css-c12)
 
+#### Experiences
+- Senior Software Engineer and CTO at <b>Epic Deploy</b> 🌎 (since 2014) - 8 years
+- Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (since 2022) - 5 months
+- Senior Frontend Engineer at <b>Empiricus</b> 🇧🇷 (2019-2021) - 2 years and 10 months
+- Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (2018-2019) - 1 year
+- Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and few months
+- Software Engineer at <b>Twiser</b> 🇧🇷 (2016-2017) - 1 year
+
 <!--
 **mmatheuspalma/mmatheuspalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
