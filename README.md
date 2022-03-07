@@ -6,6 +6,7 @@ I'm a Senior Software Engineer, with 8 years of experience with fullstack develo
 
 Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my main goal in the company is to deliver great experience and performance for the users on the editor.
 
+- 👨‍💻 I'm fluent on <b>Javascript</b> and <b>Typescript</b>
 - 🚗 I'm passionate about cars, and currently I'm working on some projects involving cars
 - ⚡ Fun fact: I have already drawn a [capybara with PUG and SCSS](https://codepen.io/mmatheuspalma/pen/ooOQvZ)
 - 👯 I’m looking to collaborate on open source projects
