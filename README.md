@@ -6,12 +6,11 @@ I'm a Senior Software Engineer, with fullstack development experience, I already
 
 Currently, I'm working in @Storyblok, where I'm a senior frontend engineer, my main goal in the company is to deliver great experience and performance for the users on the editor.
 
-<br/>
-
-- 📫 Follow me on linkedin: https://www.linkedin.com/in/matheus-palma/
 - 🚗 I'm passionate about cars, and currently I'm working on some projects involving cars
 - ⚡ Fun fact: I have already drawn a [capybara with PUG and SCSS](https://codepen.io/mmatheuspalma/pen/ooOQvZ)
 - 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently studing about everything
+- 📫 Follow me on linkedin: https://www.linkedin.com/in/matheus-palma/
 
 <!--
 **mmatheuspalma/mmatheuspalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
