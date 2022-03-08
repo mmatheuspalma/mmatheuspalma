@@ -23,7 +23,7 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (since 2022) - 5 months
 - Senior Frontend Engineer at <b>Empiricus</b> 🇧🇷 (2019-2021) - 2 years and 10 months
 - Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (2018-2019) - 1 year
-- Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and few months
+- Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and 10 months
 - Software Engineer at <b>Twiser</b> 🇧🇷 (2016-2017) - 1 year
 
 #### Languages
