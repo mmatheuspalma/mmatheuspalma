@@ -20,7 +20,7 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 
 #### Experiences
 - Senior Software Engineer and CTO at <b>Epic Deploy</b> 🌎 (since 2014) - 8 years
-- Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (since 2022) - 5 months
+- Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (since 2021) - 5 months
 - Senior Frontend Engineer at <b>Empiricus</b> 🇧🇷 (2019-2021) - 2 years and 10 months
 - Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (2018-2019) - 1 year
 - Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and 10 months
