@@ -31,6 +31,15 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - English - Advanced
 - Spanish - Basic
 
+#### Stats
+<a href="https://github.com/mmatheuspalma/mmatheuspalma">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmatheuspalma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matheus Palma Stats" />  
+</a>
+
+<a href="https://github.com/mmatheuspalma/mmatheuspalma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmatheuspalma&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
 <!--
 **mmatheuspalma/mmatheuspalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
