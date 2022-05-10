@@ -14,7 +14,7 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - 📫 Follow me on linkedin: https://www.linkedin.com/in/matheus-palma/
 
 #### Some articles that I wrote
-- [Maybe I know why you don't use Typescript](https://medium.com/empiricustech/talvez-eu-saiba-porque-voc%C3%AA-ainda-n%C3%A3o-usa-typescript-ec92c1a8bf53)
+- [I know why you don't use Typescript](https://dev.to/mmatheuspalma/i-know-why-you-dont-use-typescript-45in)
 - [Go make async functions, it's easier than it looks](https://dev.to/mmatheuspalma/go-make-async-use-cases-for-async-functions-3lbn)
 - [Capybara with pure CSS](https://dev.to/mmatheuspalma/capybara-with-pure-css-c12)
 
