@@ -2,9 +2,7 @@
 
 ![Baby doing some drift](https://i.giphy.com/media/3ov9jWu7BuHufyLs7m/giphy.webp)
 
-I'm Senior Software Engineer, with 8 years of experience with fullstack development, I already worked with many different technologies (from frontend and backend to infrastructure)
-
-Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my main goal in the company is to deliver great experience and performance for the users on the editor.
+I'm Senior Software Engineer, with more than 8 years of experience with fullstack development, I already worked with many different technologies (from frontend and backend to infrastructure)
 
 - 👨‍💻 I'm fluent on <b>Javascript</b> and <b>Typescript</b>
 - 🚗 I'm passionate about cars, and currently I'm working on some projects involving cars
