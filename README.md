@@ -19,8 +19,8 @@ Currently, I'm working in @storyblok, where I'm a senior frontend engineer, my m
 - [Capybara with pure CSS](https://dev.to/mmatheuspalma/capybara-with-pure-css-c12)
 
 #### Experiences
-- Senior Software Engineer and CTO at <b>Epic Deploy</b> 🌎 (since 2014) - 8 years
-- Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (since 2021) - 5 months
+- Senior Software Engineer and CTO at <b>Epic Deploy</b> 🌎 (since 2014) - 9 years
+- Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (2021-2023) - 1 year and 7 months
 - Senior Frontend Engineer at <b>Empiricus</b> 🇧🇷 (2019-2021) - 2 years and 10 months
 - Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (2018-2019) - 1 year
 - Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and 10 months
