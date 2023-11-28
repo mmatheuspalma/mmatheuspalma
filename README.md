@@ -4,7 +4,7 @@
 
 I'm Senior Software Engineer, I'm Open To Work, with more than 9 years of experience with fullstack development, I already worked with many different technologies (from frontend and backend to infrastructure)
 
-- 👨‍💻 I'm fluent on <b>Javascript</b> and <b>Typescript</b>
+- 👨‍💻 I'm fluent on <b>Javascript</b> and <b>Typescript</b> using the most recent technologies like Node.js, React, Vue, Angular, React Native, Nest, Next, Nuxt and much more.
 - 🚗 I'm passionate about cars, and currently I'm working on some projects involving cars
 - ⚡ Fun fact: I have already drawn a [capybara with PUG and SCSS](https://codepen.io/mmatheuspalma/pen/ooOQvZ)
 - 👯 I’m looking to collaborate on open source projects
