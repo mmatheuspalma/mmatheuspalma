@@ -34,9 +34,6 @@ I'm Senior Software Engineer, I'm Open To Work, with more than 9 years of experi
 - Spanish - Basic
 
 #### Stats
-<a href="https://github.com/mmatheuspalma/mmatheuspalma">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmatheuspalma&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Matheus Palma Stats" />  
-</a>
 
 <a href="https://github.com/mmatheuspalma/mmatheuspalma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmatheuspalma&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
