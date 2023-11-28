@@ -23,10 +23,10 @@ I'm Senior Software Engineer, I'm Open To Work, with more than 9 years of experi
 - Senior Software Engineer at <b>[StoryBlok](https://www.storyblok.com/)</b> 🇦🇹 (11/2021-06/2023) - 1 year and 8 months
 - Senior Frontend Engineer at <b>[Primo Rico](https://www.grupo-primo.com/)</b> 🇧🇷 (02/2023-04/2023) - 3 months
 - Senior Frontend Engineer at <b>[Empiricus](https://www.empiricus.com.br/)</b> 🇧🇷 (04/2019-11/2021) - 2 years and 10 months
-- Senior Software Engineer at <b>Epic Deploy ( Self-employee ) </b> 🌎 (2014-2021) - 7 years
 - Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (08/2018-04/2019) - 8 months
 - Software Engineer at <b>Pilha Digital</b> 🇧🇷 (01/2017 - 08/2018) - 1 year and 8 months
 - Software Engineer at <b>Twiser</b> 🇧🇷 (01/2016 - 01/2017) - 1 year
+- Senior Software Engineer at <b>Epic Deploy ( Self-employee ) </b> 🌎 (2014-2021) - 7 years
 
 #### Languages
 - Portuguese - Native
