@@ -17,16 +17,20 @@ I'm Senior Software Engineer, I'm Open To Work, with more than 9 years of experi
 - [Capybara with pure CSS](https://dev.to/mmatheuspalma/capybara-with-pure-css-c12)
 
 #### Experiences
-- Senior Software Engineer and CTO at <b>Epic Deploy</b> 🌎 (since 2014) - 9 years
-- Senior Frontend Engineer at <b>StoryBlok</b> 🇦🇹 (2021-2023) - 1 year and 7 months
-- Senior Frontend Engineer at <b>Empiricus</b> 🇧🇷 (2019-2021) - 2 years and 10 months
-- Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (2018-2019) - 1 year
-- Software Engineer at <b>Pilha Digital</b> 🇧🇷 (2017-2018) - 1 year and 10 months
-- Software Engineer at <b>Twiser</b> 🇧🇷 (2016-2017) - 1 year
+
+- Senior Software Engineer at <b>[James Hardie](https://www.jameshardie.com/)</b> 🇺🇸 (09/2023-current) - 3 months
+- Senior Software Engineer at <b>[Reconic](https://reconic.io/)</b> 🇩🇪 (06/2021-09/2023) - 3 months
+- Senior Software Engineer at <b>[StoryBlok](https://www.storyblok.com/)</b> 🇦🇹 (11/2021-06/2023) - 1 year and 8 months
+- Senior Frontend Engineer at <b>[Primo Rico](https://www.grupo-primo.com/)</b> 🇧🇷 (02/2023-04/2023) - 3 months
+- Senior Frontend Engineer at <b>[Empiricus](https://www.empiricus.com.br/)</b> 🇧🇷 (04/2019-11/2021) - 2 years and 10 months
+- Senior Software Engineer at <b>Epic Deploy ( Self-employee ) </b> 🌎 (2014-2021) - 7 years
+- Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (08/2018-04/2019) - 8 months
+- Software Engineer at <b>Pilha Digital</b> 🇧🇷 (01/2017 - 08/2018) - 1 year and 8 months
+- Software Engineer at <b>Twiser</b> 🇧🇷 (01/2016 - 01/2017) - 1 year
 
 #### Languages
 - Portuguese - Native
-- English - Advanced
+- English - Advanced B2 -> C1
 - Spanish - Basic
 
 #### Stats
