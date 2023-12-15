@@ -11,6 +11,7 @@
 		<meta name="description" content="Senior Software Engineer with 10 years of experience focused on Javascript, Typescript, React, Vue and Node">
 		<title> Matheus Palma | Software Engineer </title>
 		<link rel="icon" type="image/x-icon" href="./favicon.ico">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnIg==" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
 		<script type="application/ld+json">
 			{
 				"@context": "https://schema.org",
@@ -50,13 +51,20 @@
 	</head>
 	<body>
 		<div class="flex h-full items-center justify-center">
-			<div class="flex flex-col lg:flex-row h-auto gap-4 lg:gap-8 p-4">
+			<div class="flex flex-col h-auto gap-4 lg:gap-8 p-4">
 				<div class="w-[150px] h-[150px] rounded-full border-4 border-[#fff]">
 					<img class="w-full rounded-full p-2" width="150" height="150" src="./me-selfie.jpeg" alt="Matheus Palma photo's"/>
 				</div>
 				<div class="flex flex-col">
-					<div class="flex flex-col">
-						<h1 class="text-[34px] leading-[34px]"> Matheus Palma </h1>
+					<div class="flex flex-col relative">
+						<h1 class="relative text-[34px] leading-[34px] w-full">
+							Matheus Palma
+							<span class="absolute cursor-pointer h-full flex items-center top-0 right-0 text-[20px] leading-[20px]" data-download-profile>
+								<svg fill="#fff" width="32px" height="32px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" id="download" class="icon glyph">
+									<path d="M20,15a1,1,0,0,0-1,1V20a.22.22,0,0,1-.15.05H5.14C5.06,20,5,20,5,20V16a1,1,0,0,0-2,0v4a2.08,2.08,0,0,0,2.14,2H18.86A2.08,2.08,0,0,0,21,20V16A1,1,0,0,0,20,15Z"></path><path d="M11.29,16.71a1,1,0,0,0,.33.21.94.94,0,0,0,.76,0,1,1,0,0,0,.33-.21l4-4a1,1,0,0,0-1.42-1.42L13,13.59V3a1,1,0,0,0-2,0V13.59l-2.29-2.3a1,1,0,1,0-1.42,1.42Z"></path>
+								</svg>
+							</span>
+						</h1>
 						<p class="text-[20px]"> Senior Software Engineer </p>
 						<p class="text-[16px] mb-4"> 10 years of experience </p>
 						<a class="mb-3 group flex gap-[6px] hover:text-[#ccc]" href="https://www.linkedin.com/in/matheus-palma/" target="_blank">
@@ -146,7 +154,7 @@
 					</div>
 					<hr class="my-4" />
 					<div class="flex flex-col">
-						<h2 class="text-[30px] leading-[30px]">Experiences</h2>
+						<h2 class="text-[24px] leading-[24px]">Experiences</h2>
 						<div class="flex flex-col my-[12px]">
 							<h4 class="text-[24px] font-bold">
 								James Hardie
@@ -503,5 +511,19 @@
 				</div>
 			</div>
 		</div>
+		<script>
+			document.addEventListener('DOMContentLoaded', () => {
+				const downloadButton = document.querySelector('[data-download-profile]');
+
+				downloadButton.addEventListener('click', () => {
+					html2pdf()
+						.set({
+							filename: 'matheus-palma-senior-software-engineer.pdf',
+						})
+						.from(document.body)
+						.save();
+				});
+			}, false);
+		</script>
 	</body>
 </html>
