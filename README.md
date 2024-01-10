@@ -30,7 +30,7 @@ I'm Senior Software Engineer, I'm Open To Work, with more than 9 years of experi
 
 #### Languages
 - Portuguese - Native
-- English - Advanced B2 -> C1
+- English - Fluent
 - Spanish - Basic
 
 #### Stats
