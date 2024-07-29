@@ -51,6 +51,22 @@
 				scale: 1.8;
     		margin-top: 30px;
 			}
+			[data-volume] {
+				top: 75px;
+				left: 75px;
+				position: absolute;
+				z-index: 2;
+			}
+			.layer {
+				position: absolute;
+				width: 150px;
+				height: 150px;
+				background-color: rgba(0, 0, 0, 0.3);
+				z-index: 1;
+				border-radius: 100%;
+				margin-left: -4px;
+				margin-top: -4px;
+			}
 		</style>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-H2GPP4ESP3"></script>
@@ -64,10 +80,16 @@
 	</head>
 	<body>
 		<div class="flex h-full items-center justify-center">
-			<div class="flex flex-col h-auto gap-4 lg:gap-8 p-4">
+			<div class="relative flex flex-col h-auto gap-4 lg:gap-8 p-4">
 				<div class="w-[150px] h-[150px] overflow-hidden rounded-full border-4 border-[#fff]">
-					<video src="./resume-video.mp4" class="resume-video" autoplay loop class="w-[150px] h-[150px] rounded-full p-2"></video>
+					<div class="layer"></div>
+					<video data-video src="./resume-video.mp4" class="resume-video" class="w-[150px] h-[150px] rounded-full p-2"></video>
 					<!-- <img class="w-full rounded-full p-2" width="150" height="150" src="./me-selfie-smile.jpeg" alt="Matheus Palma photo's"/> -->
+					<span data-volume>
+						<svg width="40px" height="40px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path d="M21.4086 9.35258C23.5305 10.5065 23.5305 13.4935 21.4086 14.6474L8.59662 21.6145C6.53435 22.736 4 21.2763 4 18.9671L4 5.0329C4 2.72368 6.53435 1.26402 8.59661 2.38548L21.4086 9.35258Z" fill="#ffffff"/>
+						</svg>
+					</span>
 				</div>
 				<div class="flex flex-col">
 					<div class="flex flex-col relative">
@@ -583,6 +605,15 @@
 						})
 						.from(document.body)
 						.save();
+				});
+
+				const videoPlayer = document.querySelector('[data-video]');
+				const volumeButton = document.querySelector('[data-volume]');
+
+				volumeButton.addEventListener('click', () => {
+					videoPlayer.play();
+					volumeButton.remove();
+					document.querySelector('.layer').remove();
 				});
 			}, false);
 		</script>
