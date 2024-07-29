@@ -47,6 +47,10 @@
 					max-width: 100%;
 				}
 			}
+			.resume-video {
+				scale: 1.8;
+    		margin-top: 30px;
+			}
 		</style>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-H2GPP4ESP3"></script>
@@ -61,8 +65,9 @@
 	<body>
 		<div class="flex h-full items-center justify-center">
 			<div class="flex flex-col h-auto gap-4 lg:gap-8 p-4">
-				<div class="w-[150px] h-[150px] rounded-full border-4 border-[#fff]">
-					<img class="w-full rounded-full p-2" width="150" height="150" src="./me-selfie-smile.jpeg" alt="Matheus Palma photo's"/>
+				<div class="w-[150px] h-[150px] overflow-hidden rounded-full border-4 border-[#fff]">
+					<video src="./resume-video.mp4" class="resume-video" autoplay loop class="w-[150px] h-[150px] rounded-full p-2"></video>
+					<!-- <img class="w-full rounded-full p-2" width="150" height="150" src="./me-selfie-smile.jpeg" alt="Matheus Palma photo's"/> -->
 				</div>
 				<div class="flex flex-col">
 					<div class="flex flex-col relative">
