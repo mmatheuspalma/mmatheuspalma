@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=mmatheuspalma&color=green)
+
 ### Hey there 👋
 
 ![Baby doing some drift](https://i.giphy.com/media/3ov9jWu7BuHufyLs7m/giphy.webp)
