@@ -19,7 +19,8 @@ I'm Senior Software Engineer with more than 10 years of experience with fullstac
 - [Capybara with pure CSS](https://dev.to/mmatheuspalma/capybara-with-pure-css-c12)
 
 #### Experiences
-- Senior Software Engineer at <b>[WebMotors](https://www.webmotors.com.br/)</b> 🇧🇷 (01/2024-current) - 10 months
+- Senior Software Engineer at <b>[PayPal](https://www.paypal.com/)</b> 🇺🇸 (11/2024-current)
+- Senior Software Engineer at <b>[WebMotors](https://www.webmotors.com.br/)</b> 🇧🇷 (01/2024-11/2024) - 11 months
 - Senior Software Engineer at <b>[James Hardie](https://www.jameshardie.com/)</b> 🇺🇸 (08/2023-01/2024) - 6 months
 - Senior Software Engineer at <b>[Reconic](https://reconic.io/)</b> 🇩🇪 (06/2021-08/2023) - 3 months
 - Senior Software Engineer at <b>[StoryBlok](https://www.storyblok.com/)</b> 🇦🇹 (11/2021-06/2023) - 1 year and 8 months
