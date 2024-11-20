@@ -20,11 +20,10 @@ I'm Senior Software Engineer with more than 10 years of experience with fullstac
 
 #### Experiences
 - Senior Software Engineer at <b>[PayPal](https://www.paypal.com/)</b> 🇺🇸 (11/2024-current)
-- Senior Software Engineer at <b>[WebMotors](https://www.webmotors.com.br/)</b> 🇧🇷 (01/2024-11/2024) - 11 months
+- Senior Software Engineer at <b>[CarGroup](https://www.cargroup.com/)</b> 🇦🇺 (01/2024-11/2024) - 11 months
 - Senior Software Engineer at <b>[James Hardie](https://www.jameshardie.com/)</b> 🇺🇸 (08/2023-01/2024) - 6 months
 - Senior Software Engineer at <b>[Reconic](https://reconic.io/)</b> 🇩🇪 (06/2021-08/2023) - 3 months
 - Senior Software Engineer at <b>[StoryBlok](https://www.storyblok.com/)</b> 🇦🇹 (11/2021-06/2023) - 1 year and 8 months
-- Senior Frontend Engineer at <b>[Primo Rico](https://www.grupo-primo.com/)</b> 🇧🇷 (02/2023-04/2023) - 3 months
 - Senior Frontend Engineer at <b>[Empiricus](https://www.empiricus.com.br/)</b> 🇧🇷 (04/2019-11/2021) - 2 years and 10 months
 - Lead Frontend Engineer at <b>Helpay</b> 🇧🇷 (08/2018-04/2019) - 8 months
 - Software Engineer at <b>Pilha Digital</b> 🇧🇷 (01/2017 - 08/2018) - 1 year and 8 months
